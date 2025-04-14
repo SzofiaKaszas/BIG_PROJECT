@@ -1,6 +1,8 @@
 IFrame Player API
+Vite
 React
 javascript
+Bootstrap
 
 
 main
@@ -15,3 +17,9 @@ meg nyitsz egy videót
 
 admin
 -valami törlése/hozzáadás
+
+Colors:
+  #f4f3f3
+  #dfdfdf
+  #bfd8d5
+  #b1bed5

@@ -7,12 +7,11 @@ Bootstrap
 
 main
 -videó választás -> react <3 E>
--navbar
--bejelentkezés -> json
+-navbar (kesz)
+-(bejelentkezés -> json)
 
 meg nyitsz egy videót
--lejátsza
--iframe player
+-lejátsza -> iframe player
 -(oldalt a többi videó)
 
 admin
@@ -22,4 +21,4 @@ Colors:
   #f4f3f3
   #dfdfdf
   #bfd8d5
-  #b1bed5
+  #E8F9FF

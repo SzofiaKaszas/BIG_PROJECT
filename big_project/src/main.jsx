@@ -3,9 +3,17 @@ import { createRoot } from 'react-dom/client'
 import './index.css'
 import './navbar.css'
 import NavBar from './NavBar.jsx'
+import Video_card from './video_card.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <NavBar />
+    <NavBar/>
+    <div className='container-fluid'>
+      <div className='row'>
+        <Video_card video_cover_img = "#" video_cover_alt = "fasza video" video_title = "title"/>
+        <Video_card video_cover_img = "#" video_cover_alt = "fasza video" video_title = "title"/>
+        <Video_card video_cover_img = "#" video_cover_alt = "fasza video" video_title = "title"/>
+      </div>
+    </div>
   </StrictMode>,
 )

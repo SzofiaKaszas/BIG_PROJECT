@@ -1,0 +1,39 @@
+[
+    {
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
+      "alt": "Rick Astley video thumbnail",
+      "title": "Rick Astley - Never Gonna Give You Up",
+      "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "thumbnail": "https://img.youtube.com/vi/kJQP7kiw5Fk/mqdefault.jpg",
+      "alt": "Luis Fonsi - Despacito thumbnail",
+      "title": "Luis Fonsi - Despacito ft. Daddy Yankee",
+      "link": "https://www.youtube.com/watch?v=kJQP7kiw5Fk"
+    },
+    {
+      "thumbnail": "https://img.youtube.com/vi/3JZ_D3ELwOQ/mqdefault.jpg",
+      "alt": "Ed Sheeran - Shape of You thumbnail",
+      "title": "Ed Sheeran - Shape of You",
+      "link": "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+    },
+    {
+      "thumbnail": "https://img.youtube.com/vi/9bZkp7q19f0/mqdefault.jpg",
+      "alt": "PSY - Gangnam Style thumbnail",
+      "title": "PSY - GANGNAM STYLE(강남스타일)",
+      "link": "https://www.youtube.com/watch?v=9bZkp7q19f0"
+    },
+    {
+      "thumbnail": "https://img.youtube.com/vi/tgbNymZ7vqY/mqdefault.jpg",
+      "alt": "Charlie bit my finger thumbnail",
+      "title": "Charlie bit my finger - again!",
+      "link": "https://www.youtube.com/watch?v=tgbNymZ7vqY"
+    },
+    {
+      "thumbnail": "https://img.youtube.com/vi/L_jWHffIx5E/mqdefault.jpg",
+      "alt": "Smash Mouth - All Star thumbnail",
+      "title": "Smash Mouth - All Star",
+      "link": "https://www.youtube.com/watch?v=L_jWHffIx5E"
+    }
+  ]
+  

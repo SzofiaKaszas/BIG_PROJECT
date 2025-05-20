@@ -13,11 +13,20 @@
     transition: transform .2s
 }
 
-.card {
+
+.video-card{
     background-color: #f4f3f3;
     margin: 20px;
     padding: 20px;
     text-align: left;
     width: 400px;
-    height: 280px;
+    height: 280px
+}
+
+.video-card:hover{
+    color: black;
+    text-decoration: none;
+    z-index:100;
+    transform: scale(1.5);
+    transition: transform .2s
 }

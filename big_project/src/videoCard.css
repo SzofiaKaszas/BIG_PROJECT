@@ -1,0 +1,22 @@
+.basicLink {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+    transition: transform .2s
+}
+
+.basicLink:hover {
+    z-index:100;
+    transform: scale(1.5);
+    transition: transform .2s
+}
+
+.card {
+    background-color: #f4f3f3;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    margin: 20px;
+    padding: 20px;
+    text-align: left;
+    width: 300px;
+    height: 150px;
+}

@@ -47,7 +47,7 @@ function NewIndex({ selectedIndex, setSelectedIndex }) {
     return (
       <>
         {videoData.map((video, index) => (
-          <div key={index} className="col-md-3 mb-4">
+          <div key={index} className="col-md-4 mb-4">
             <Video_card
               onClick={() => setSelectedIndex(index)}
               video_cover_img={video.thumbnail}

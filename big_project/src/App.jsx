@@ -8,19 +8,30 @@ import videoData from './videos.json'
 
 function App() {
   const [selectedIndex, setSelectedIndex] = useState(null);
-  console.log(selectedIndex);
 
   return (
     <>
       <NavBar />
-      <div className='container-fluid'>
-        <div className='row'>
-          <NewIndex selectedIndex={selectedIndex} setSelectedIndex={setSelectedIndex} />
+      <main className="app-wrapper">
+        <section className="section-header">
+          <h1 className="main-title">📺 Válassz egy videót</h1>
+          <p className="subtitle">Kattints egy kártyára a lejátszáshoz</p>
+        </section>
+
+        <div className="video-gallery container py-4">
+          <div className="row">
+            <NewIndex selectedIndex={selectedIndex} setSelectedIndex={setSelectedIndex} />
+          </div>
         </div>
-      </div>
+      </main>
+
+      <footer className="footer mt-5">
+        <p>© Video Lejátszó</p>
+      </footer>
     </>
-  )
+  );
 }
+
 
 function NewIndex({ selectedIndex, setSelectedIndex }) {
   if (selectedIndex !== null) {
